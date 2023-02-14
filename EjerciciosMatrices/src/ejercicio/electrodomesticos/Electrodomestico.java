@@ -1,3 +1,16 @@
+/*
+EJERCICIO
+Realice un programa que permita guardar información de los electrodomésticos que se venden en un almacén de cadena, teniendo en cuenta que debe contar con un menú de opciones, así:
+1) Guardar un electrodoméstico, el cual tiene un nro. de serie, un tipo de electrodoméstico(Nevera,TV, equipo,etc) y un precio
+2) Listar los electrodomésticos guardados, colocándolos en una tabla así:
+
+ NRO.SERIE / TIPO DE ELECTRODOMESTICO / PRECIO
+    **       /   **                    /    **
+3) Buscar un electrodoméstico por el numero de serie, si esta sacar de manera   clara la información guardada
+
+Nota: Por simplicidad trabaje con 4 electrodomésticos
+
+*/
 package ejercicio.electrodomesticos;
 
 import java.util.Scanner;
